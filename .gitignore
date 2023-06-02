@@ -1,0 +1,6 @@
+/_pycharm_
+.github
+.idea
+/venv
+/script
+*.jpg
